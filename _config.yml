@@ -30,9 +30,9 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
-  # facebook: your_username
+  facebook: G.Webmaster
   # dribbble: your_username
   # linkedin: your_username
   # stackoverflow: your_user_id
@@ -45,12 +45,11 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+  
+  - name: AdvPL
 
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-
-social_media:
-  - facebook: G.Webmaster
 
 theme: jekyll-theme-cayman
