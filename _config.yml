@@ -1,9 +1,12 @@
 layout: sidebar
-style: sidebar 
+style: dark 
 
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 permalink: /:year/:month/:day/:title/
 
@@ -27,9 +30,6 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
     
 social_media:
-  facebook: G.Webmaster
-  linkedin: gabriel-alencar-3041b790
-  stackoverflow: alencar-gabriel
-  youtube: UC62XbD_xTeCBqUu4n9Lnqyg
+  - facebook: G.Webmaster
 
 theme: jekyll-theme-cayman
