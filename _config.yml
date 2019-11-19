@@ -26,10 +26,12 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
       - advpl-codex
+      - advpl-language-server
+      - Protheus-ORM
 
 social_media:
   # behance: your_username
