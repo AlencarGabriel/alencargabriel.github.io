@@ -27,7 +27,7 @@ projects:
   limit: 9
   exclude:
     archived: true
-    forks: false
+    forks: true
     projects:
       - advpl-codex
       - advpl-language-server
