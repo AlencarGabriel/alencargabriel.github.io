@@ -32,6 +32,9 @@ projects:
       - advpl-codex
       - advpl-language-server
       - Protheus-ORM
+      - TESTE
+      - LocadoraLocale
+      - FolhaPagamentoJAVA
 
 social_media:
   # behance: your_username
