@@ -35,7 +35,7 @@ Sendo assim, enquanto esse recurso não fica disponível para as extensões de s
 
 - Pronto, agora basta carregar um fonte AdvPL e na Activity Bar estará sendo apresentado a estrutura do código conforme hierarquia.
 
-![image](https://user-images.githubusercontent.com/10109480/69922409-c9a7bb80-147a-11ea-8b5c-7c8e0f5e7f7f.png)
+![Outline-Advpl-VsCode](https://gabrielalencar.dev/img/Usando_Outline_AdvPl_VsCode.png){:width="100%"}
 
 > Clicando em cada item, o cursor do documento será posicionado para a linha ao qual ele pertence. 
 
