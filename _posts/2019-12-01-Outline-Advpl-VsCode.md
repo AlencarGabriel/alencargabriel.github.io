@@ -5,7 +5,6 @@ tags: [vscode, advpl, totvs]
 author: "Gabriel Alencar"
 header-img: "https://user-images.githubusercontent.com/10109480/69922409-c9a7bb80-147a-11ea-8b5c-7c8e0f5e7f7f.png"
 category: artigos
-subtitle: "Olá mundo, neste artigo vou falar sobre um método que estou utilizando para implementar o recurso "Outline" ou a listagem de variáveis e métodos, funções, etc do VsCode enquanto o Language Server para AdvPL não fica pronto."
 ---
 
 **Olá mundo**, neste artigo vou falar sobre um método que estou utilizando para implementar o recurso "Outline" ou a listagem de variáveis e métodos, funções, etc do VsCode enquanto o Language Server para AdvPL não fica pronto.
