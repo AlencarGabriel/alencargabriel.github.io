@@ -15,7 +15,7 @@ Espero que goste!
 Para aqueles que não sabem sobre o que este artigo se trata, vou explicar.
 A visão Outline ou a listagem de símbolos do VsCode é um recurso nativo do VsCode que permite encontrar os símbolos da linguagem (métodos, classes, variáveis, etc) de forma mais "rápida" e ágil. 
 
-![image](https://user-images.githubusercontent.com/10109480/69922116-f60e0880-1477-11ea-9b58-60334b07899f.png)
+![image](https://user-images.githubusercontent.com/10109480/69922116-f60e0880-1477-11ea-9b58-60334b07899f.png){:width="100%"}
 
 Porém, seu funcionamento só é possível quando há implementado via Language Server os recursos para que o VsCode entenda a sintaxe e estrutura do AdvPL como qualquer outra linguagem já suportada por ele (Java Script, Type Script, ...)
 
