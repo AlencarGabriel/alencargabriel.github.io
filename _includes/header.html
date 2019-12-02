@@ -23,6 +23,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
+    <meta name="description" content="{{ meta_description }}" />
     
     {% if page.title %}
       <meta property="og:title" content="{{ page.title }}" />
@@ -38,10 +39,8 @@
     
     {% if page.subtitle %}
       <meta property="og:description" content="{{ page.subtitle }}" />
-      <meta name="description" content="{{ page.subtitle }}" />
     {% else %}
       <meta property="og:description" content="{{ meta_description }}" />
-      <meta name="description" content="{{ meta_description }}" />
     {% endif %}
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
