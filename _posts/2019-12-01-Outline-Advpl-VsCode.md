@@ -28,14 +28,17 @@ Sendo assim, enquanto esse recurso não fica disponível para as extensões de s
 - Baixado o arquivo, basta configurar a extensão para que ela carregue a configuração dos símbolos AdvPL da seguinte forma: 
 
 ```json
+{
   "codemap.prw": "C:\\Users\\MyUSer\\AppData\\Roaming\\Code\\User\\mapper_prw.js",
   "codemap.prx": "C:\\Users\\MyUser\\AppData\\Roaming\\Code\\User\\mapper_prw.js",
   "codemap.textMode": false
+}
 ```
+> Adicione o código acima nas configurações do Workspace ou de usuário do VsCode.
 
 - Pronto, agora basta carregar um fonte AdvPL e na Activity Bar estará sendo apresentado a estrutura do código conforme hierarquia.
 
-![Outline-Advpl-VsCode](https://gabrielalencar.dev/img/Usando_Outline_AdvPl_VsCode.png){:width="100%"}
+![Outline-Advpl-VsCode](/img/Usando_Outline_AdvPl_VsCode.png){:width="100%"}
 
 > Clicando em cada item, o cursor do documento será posicionado para a linha ao qual ele pertence. 
 
