@@ -24,6 +24,7 @@
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
     
     {% if page.title %}
       <meta property="og:title" content="{{ page.title }}" />
@@ -32,15 +33,9 @@
     {% endif %}
     
     {% if page.header-img %}
-      <meta property="og:image" content="{{ page.header-img }}" />
+      <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
     {% else %}
       <meta property="og:image" content="{{ user.avatar_url }}" />
-    {% endif %}
-    
-    {% if page.subtitle %}
-      <meta property="og:description" content="{{ page.subtitle }}" />
-    {% else %}
-      <meta property="og:description" content="{{ meta_description }}" />
     {% endif %}
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
