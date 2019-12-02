@@ -23,15 +23,30 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
-    <meta name="description" content="{{ meta_description }}" />
-    <meta property="og:title" content="{{ user.name }}" />
-    <meta property="og:image" content="{{ user.avatar_url }}" />
-    <meta property="og:description" content="{{ meta_description }}" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
+    
+    {% if page.title %}
+      <meta property="og:title" content="{{ page.title }}" />
+    {% else %}
+      <meta property="og:title" content="{{ user.name }}" />
+    {% endif %}
+    
     {% if page.header-img %}
       <meta property="og:image" content="{{ page.header-img }}" />
+    {% else %}
+      <meta property="og:image" content="{{ user.avatar_url }}" />
     {% endif %}
-    <meta property="og:description" content="{{ page.subtitle }}" />
+    
+    {% if page.subtitle %}
+      <meta property="og:description" content="{{ page.subtitle }}" />
+      <meta name="description" content="{{ page.subtitle }}" />
+    {% else %}
+      <meta property="og:description" content="{{ meta_description }}" />
+      <meta name="description" content="{{ meta_description }}" />
+    {% endif %}
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
+    
   </head>
   <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
