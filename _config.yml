@@ -24,7 +24,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 60
+  limit: 14
   exclude:
     #archived: true
     #forks: false
@@ -51,6 +51,10 @@ projects:
       - submitting-forms-angular
       - sdk-php
       - resume-editor
+      - api-investments
+      - morris-php
+      - codemap.vscode
+      - alencargabriel.github.io
 
 social_media:
   # behance: your_username
