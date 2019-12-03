@@ -42,6 +42,15 @@ projects:
       - Hello-World
       - app
       - aplicativo
+      - stars
+      - generator-angm
+      - x-superobject
+      - wire-desktop
+      - tortoise-svn-for-vscode
+      - superobject
+      - submitting-forms-angular
+      - sdk-php
+      - resume-editor
 
 social_media:
   # behance: your_username
