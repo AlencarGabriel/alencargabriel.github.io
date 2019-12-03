@@ -20,14 +20,12 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
   limit: 9
   exclude:
     archived: true
-    forks: false
     projects:
       - advpl-codex
       - advpl-language-server
@@ -56,7 +54,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: https://www.youtube.com/channel/UC62XbD_xTeCBqUu4n9Lnqyg
 
 topics:
   - name: AdvPL
