@@ -23,9 +23,10 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     archived: true
+    forks: true
     #projects:
     #  - advpl-codex
     #  - advpl-language-server
