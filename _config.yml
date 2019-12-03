@@ -28,34 +28,8 @@ projects:
   exclude:
     #archived: true
     #forks: false
-    projects:
-      - advpl-codex
-      - advpl-language-server
-      - Protheus-ORM
-      - TESTE
-      - LocadoraLocale
-      - FolhaPagamentoJAVA
-      - delphi
-      - Hobjetos-App
-      - Android
-      - Aplicationx
-      - Hello-World
-      - app
-      - aplicativo
-      - stars
-      - generator-angm
-      - x-superobject
-      - wire-desktop
-      - tortoise-svn-for-vscode
-      - superobject
-      - submitting-forms-angular
-      - sdk-php
-      - resume-editor
-      - api-investments
-      - morris-php
-      - codemap.vscode
-      - alencargabriel.github.io
-      - Registra-Dll
+    #projects:
+      
 
 social_media:
   # behance: your_username
