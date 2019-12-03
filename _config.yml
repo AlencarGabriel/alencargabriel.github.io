@@ -28,7 +28,15 @@ projects:
   exclude:
     #archived: true
     #forks: false
-    #projects:
+    projects:
+      - alencargabriel.github.io
+      - Registra-Dll
+      - codemap.vscode
+      - advpl-codex
+      - Protheus-ORM
+      - advpl-language-server
+      - api-investments
+      - FolhaPagamentoJAVA
       
 
 social_media:
