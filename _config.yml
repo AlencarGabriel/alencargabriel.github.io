@@ -26,13 +26,13 @@ projects:
   limit: 9
   exclude:
     archived: true
-    projects:
-      - advpl-codex
-      - advpl-language-server
-      - Protheus-ORM
-      - TESTE
-      - LocadoraLocale
-      - FolhaPagamentoJAVA
+    #projects:
+    #  - advpl-codex
+    #  - advpl-language-server
+    #  - Protheus-ORM
+    #  - TESTE
+    #  - LocadoraLocale
+    #  - FolhaPagamentoJAVA
 
 social_media:
   # behance: your_username
@@ -54,7 +54,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  youtube: https://www.youtube.com/channel/UC62XbD_xTeCBqUu4n9Lnqyg
+  youtube: channel/UC62XbD_xTeCBqUu4n9Lnqyg
 
 topics:
   - name: AdvPL
