@@ -79,6 +79,6 @@ topics:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
   - name: SQL Server
     web_url: https://github.com/topics/sqlserver
-    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZZJF-gxK2UUmdpHp_FMWSTmxO4_jOjx3NmYObJA6iiaRYG34h
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL3lyOOlPLJFGZydfDBnfh7oB3Ifzf047_M5Kjdn77tfWH-JZ6
 
 theme: jekyll-theme-cayman
