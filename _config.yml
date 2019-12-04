@@ -67,7 +67,7 @@ topics:
     image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy3Ei2PhLRrzaZ8hw8JMDZU1UBT9FwB7SUd-7uZp4offQgYA5g
   - name: PHP
     web_url: https://github.com/topics/PHP
-    image_url: https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a---cone-de-linguagem-de-programa----o-php-by-vexels.png
+    image_url: https://logodownload.org/wp-content/uploads/2016/10/php-logo.png
   - name: TypeScript
     web_url: https://github.com/topics/typescript
     image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl5s4XbPrxHdlWG13_BW1xr9ABhERvHjph3qp_nHKtP3uv-_MP
@@ -79,6 +79,6 @@ topics:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
   - name: SQL Server
     web_url: https://github.com/topics/sqlserver
-    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL3lyOOlPLJFGZydfDBnfh7oB3Ifzf047_M5Kjdn77tfWH-JZ6
+    image_url: https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-6.png
 
 theme: jekyll-theme-cayman
