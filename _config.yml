@@ -37,6 +37,9 @@ projects:
       - advpl-language-server
       - api-investments
       - FolhaPagamentoJAVA
+      - LocadoraLocale
+      - morris-php
+      - tortoise-svn-for-vscode
       
 
 social_media:
