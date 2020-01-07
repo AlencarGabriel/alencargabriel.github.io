@@ -45,7 +45,10 @@ Muitas vezes colocamos mensagens informativas em nossos programas onde **se o us
 > Existem certas mensagens que aparecendo ou não, não impactam no processo, e poderiam ter sido fechadas automaticamente, evitando um atraso no trabalho do cliente.
 
 
-Então, para auxiliar de forma simples e com menor impacto nos exemplos citados anteriormente criei a função [MsgTimer](https://github.com/AlencarGabriel/advpl-MsgTimer). Ela funciona de forma semelhante as funções MVC de mensagem do Protheus 12 como: **FwAlertError**, **FwAlertInfo**, **FwAlertSucces** e **FwAlertWarning**, com o diferencial do temporizador para __fechar a mensagem automaticamente e a possibilidade de relacionar qualquer ícone com os botões suportados além de ter um retorno *default* caso não haja interação com a mensagem__.
+Então, para auxiliar de forma simples e com menor impacto nos exemplos citados anteriormente criei a função [MsgTimer](https://github.com/AlencarGabriel/advpl-MsgTimer). Ela funciona de forma semelhante as funções MVC de mensagem do Protheus 12 como: **FwAlertError**, **FwAlertInfo**, **FwAlertSucces** e **FwAlertWarning**, com o diferencial do temporizador para:
+- Fechar a mensagem automaticamente;
+- Possibilidade de relacionar qualquer ícone com os botões suportados;
+- Retornar um valor *default* caso não haja interação com a mensagem.
 
 Segue a documentação da rotina contendo todos os detalhes e informações de implementação e parâmetros: [https://github.com/AlencarGabriel/advpl-MsgTimer#documentação](https://github.com/AlencarGabriel/advpl-MsgTimer#documentação)
 
@@ -53,6 +56,6 @@ Segue a documentação da rotina contendo todos os detalhes e informações de i
 
 ![MsgTimer Error](https://github.com/AlencarGabriel/advpl-MsgTimer/raw/master/Examples/MsgTimer_Error_Default.png) ![FwAlertError](https://github.com/AlencarGabriel/advpl-MsgTimer/raw/master/Examples/FwAlertError.png)
 
-Quase nenhuma diferença né? Então é possível refatorar suas funções de forma prática e com pouquíssimo impacto, e ah HTML é suportado!:smirk:
+Quase nenhuma diferença né? Então é possível refatorar suas funções de forma prática e com pouquíssimo impacto, e ah HTML é suportado! :smirk:
 
 Espero ter ajudado, em breve mais artigos explicando outros macetes que utilizo. Até a próxima! :computer: :wave:
