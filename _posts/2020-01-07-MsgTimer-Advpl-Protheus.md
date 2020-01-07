@@ -1,6 +1,6 @@
 ---
 title: "Apresentação MsgTimer para Advpl - Protheus"
-published: false
+published: true
 tags: [msgtimer, advpl, totvs, protheus]
 author: "Gabriel Alencar"
 header-img: "img/Usando_Outline_AdvPl_VsCode.png"
@@ -32,16 +32,13 @@ Realmente, concordo com você que existem casos exporádicos, onde realmente a �
 
 Muitas vezes colocamos mensagens informativas em nossos programas onde se o usuário viu ou não aquela mensagem, o resultado se torna indiferente. As vezes ele clicou em processar, saiu da mesa para fazer outra coisa pois o processo é demorado, mas a rotina mostrou uma mensagem de questionamento. Quando ele volta para verificar se finalizou, na verdade nem havia começado. Sendo assim, existem certas mensagens que aparecendo ou não, não impactam no processo, e poderiam ter sido fechadas automaticamente, evitando um atraso no trabalho do cliente.
 
-Então, para auxiliar de forma simples e de menor impacto nos exemplos citados anteriormente criei a função [MsgTimer](https://github.com/AlencarGabriel/advpl-MsgTimer)
+Então, para auxiliar de forma simples e de menor impacto nos exemplos citados anteriormente criei a função [MsgTimer](https://github.com/AlencarGabriel/advpl-MsgTimer). Onde esta funciona de forma semelhante as funções MVC de mensagem do Protheus 12: FwAlertError, FwAlertInfo, FwAlertSucces e FwAlertWarning, com o diferencial do temporizador para fechar a mensagem e a possibilidade de relacionar qualquer ícone com os botões suportados (nas funções padrões os ícones são específicos de cada função).
 
-https://github.com/AlencarGabriel/advpl-MsgTimer#documentação
+Segue a documentação da rotina contendo todos os detalhes e informações de uso e parâmetros: https://github.com/AlencarGabriel/advpl-MsgTimer#documentação
 
+### Comparação entre MsgTimer (com tipo Error) e FwAlertError:
 
-{% highlight javascript linenos %}
-    function some(code) { /*goes here*/ }
-    let x = 21;
-{% endhighlight %}
-
+![MsgTimer Error](https://github.com/AlencarGabriel/advpl-MsgTimer/raw/master/Examples/MsgTimer_Error_Default.png) ![FwAlertError](https://github.com/AlencarGabriel/advpl-MsgTimer/raw/master/Examples/FwAlertError.png)
 
 
 Espero ter ajudado, em breve mais artigos explicando outros macetes que utilizo. Até a próxima! :computer: :wave:
