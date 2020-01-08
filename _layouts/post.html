@@ -5,6 +5,7 @@
   {
     "@context" : "http://schema.org",
     "@type" : "Article",
+    
     {% if page.title %}
       "name" : "{{ page.title }}",
       "headline" : "{{ page.title }}",
@@ -12,11 +13,13 @@
       "name" : "{{ user.name }}",
       "headline" : "{{ user.name }}",
     {% endif %}
+    
     {% if page.header-img %}
       "image" : "{{ site.url }}/{{ page.header-img }}",
     {% else %}
       "image" : "{{ user.avatar_url }}",
     {% endif %}
+    
     "author" : {
       "@type" : "Person",
       "name" : "{{page.author}}"
@@ -29,8 +32,8 @@
         "url" : "{{ user.avatar_url }}"
           }
     },
-    "datePublished" : {{ post.date | date: "%b %d, %Y"}},
-    "dateModified" : {{ post.date | date: "%b %d, %Y"}},
+    "datePublished" : "{{ page.date | date: "%b %d, %Y"}}",
+    "dateModified" : "{{ page.date | date: "%b %d, %Y"}}",
     "mainEntityOfPage": {
      "@type": "WebPage",
      "@id": "{{ site.url }}"
