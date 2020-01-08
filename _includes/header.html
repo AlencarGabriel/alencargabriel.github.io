@@ -50,7 +50,47 @@
 
       gtag('config', 'UA-153677300-1');
     </script>
-
+    
+    <!-- Marcação JSON-LD gerada pelo Assistente de marcação para dados estruturados do Google. -->
+    <script type="application/ld+json">
+      {
+        "@context" : "http://schema.org",
+        "@type" : "Article",
+        
+        {% if page.title %}
+          "name" : "{{ page.title }}",
+          "headline" : "{{ page.title }}",
+        {% else %}
+          "name" : "{{ user.name }}",
+          "headline" : "{{ user.name }}",
+        {% endif %}
+        
+        {% if page.header-img %}
+          "image" : "{{ site.url }}/{{ page.header-img }}",
+        {% else %}
+          "image" : "{{ user.avatar_url }}",
+        {% endif %}
+        
+        "author" : {
+          "@type" : "Person",
+          "name" : "Gabriel Alencar"
+        },
+        "publisher" : {
+          "@type" : "Organization",
+          "name" : "Gabriel Alencar",
+          "logo" : {
+            "@type" : "ImageObject",
+            "url" : "{{ user.avatar_url }}"
+              }
+        },
+        "datePublished" : {{ post.date | date: "%b %d, %Y"}},
+        "dateModified" : {{ post.date | date: "%b %d, %Y"}},
+        "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "{{ site.url }}"
+       }
+      }
+    </script>
     
   </head>
   <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
