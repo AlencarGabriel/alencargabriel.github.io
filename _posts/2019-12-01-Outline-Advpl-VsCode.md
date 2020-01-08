@@ -1,7 +1,7 @@
 ---
 title: "Usando Outline com AdvPl no VsCode"
 published: true
-tags: [vscode, advpl, totvs]
+tags: "vscode, advpl, totvs"
 author: "Gabriel Alencar"
 header-img: "img/Usando_Outline_AdvPl_VsCode.png"
 ---
