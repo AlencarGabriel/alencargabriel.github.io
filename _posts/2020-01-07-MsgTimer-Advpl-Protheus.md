@@ -1,7 +1,7 @@
 ---
 title: "Apresentação MsgTimer para Advpl - Protheus"
 published: true
-tags: [msgtimer, msg, timer, advpl, totvs, protheus]
+tags: "msgtimer, msg, timer, advpl, totvs, protheus"
 author: "Gabriel Alencar"
 header-img: "img/MsgTimer-Advpl-Protheus.png"
 ---
