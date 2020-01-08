@@ -1,12 +1,12 @@
 ---
 title: "Apresentação MsgTimer para Advpl - Protheus"
 published: true
-tags: [msgtimer, advpl, totvs, protheus]
+tags: [msgtimer, msg, timer, advpl, totvs, protheus]
 author: "Gabriel Alencar"
 header-img: "img/MsgTimer-Advpl-Protheus.png"
 ---
 
-**Olá mundo**, neste artigo vou apresentar um novo projeto que criei para suprir uma necessidade de um cliente, porém a implementação serve para muitos outros casos. Acredito que você já deve ter passado por pelo menos um dos exemplos (casos) que apresentarei abaixo.
+**Olá mundo**, neste artigo vou apresentar a função Msg Timer. Um novo projeto que criei para suprir uma necessidade de um cliente, porém a implementação serve para muitos outros casos. Acredito que você já deve ter passado por pelo menos um dos exemplos (casos) que apresentarei abaixo.
 
 Espero que goste e lhe ajude!
 
