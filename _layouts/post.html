@@ -1,5 +1,43 @@
 {% include header.html %}
 
+<!-- Marcação JSON-LD gerada pelo Assistente de marcação para dados estruturados do Google. -->
+<script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Article",
+    {% if page.title %}
+      "name" : "{{ page.title }}",
+      "headline" : "{{ page.title }}",
+    {% else %}
+      "name" : "{{ user.name }}",
+      "headline" : "{{ user.name }}",
+    {% endif %}
+    {% if page.header-img %}
+      "image" : "{{ site.url }}/{{ page.header-img }}",
+    {% else %}
+      "image" : "{{ user.avatar_url }}",
+    {% endif %}
+    "author" : {
+      "@type" : "Person",
+      "name" : "{{page.author}}"
+    },
+    "publisher" : {
+      "@type" : "Organization",
+      "name" : "{{page.author}}",
+      "logo" : {
+        "@type" : "ImageObject",
+        "url" : "{{ user.avatar_url }}"
+          }
+    },
+    "datePublished" : {{ post.date | date: "%b %d, %Y"}},
+    "dateModified" : {{ post.date | date: "%b %d, %Y"}},
+    "mainEntityOfPage": {
+     "@type": "WebPage",
+     "@id": "{{ site.url }}"
+   }
+  }
+</script>
+
 {% capture post_body %}
   {% if site.social_media %}
     {% assign shareable_social_media = '' | split: ',' %}
