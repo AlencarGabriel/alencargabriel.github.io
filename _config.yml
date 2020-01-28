@@ -24,7 +24,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 26
+  limit: 23
   exclude:
     #archived: true
     #forks: false
@@ -40,6 +40,8 @@ projects:
       - LocadoraLocale
       - morris-php
       - tortoise-svn-for-vscode
+      - wire-desktop
+      - x-superobject
       
 
 social_media:
