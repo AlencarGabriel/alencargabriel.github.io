@@ -24,7 +24,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 23
+  limit: 26
   exclude:
     #archived: true
     #forks: false
@@ -70,7 +70,7 @@ topics:
     image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy3Ei2PhLRrzaZ8hw8JMDZU1UBT9FwB7SUd-7uZp4offQgYA5g
   - name: PHP
     web_url: https://github.com/topics/PHP
-    image_url: https://miro.medium.com/max/1184/1*JGkOiiDXtsuXgq4koo5uJw.png
+    image_url: https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png
   - name: TypeScript
     web_url: https://github.com/topics/typescript
     image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl5s4XbPrxHdlWG13_BW1xr9ABhERvHjph3qp_nHKtP3uv-_MP
