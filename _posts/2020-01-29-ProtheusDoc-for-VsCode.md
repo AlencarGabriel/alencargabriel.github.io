@@ -3,18 +3,18 @@ title: "Apresentação ProtheusDoc for VsCode"
 published: true
 tags: "protheusdoc, doc, documentacao, advpl, totvs, protheus, vscode"
 author: "Gabriel Alencar"
-header-img: "img/ProtheusDoc-for-VsCode.gif"
+header-img: "img/ProtheusDoc-for-VsCode.png"
 ---
 
 **Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuíção para comunidade TOTVS/Protheus.
 
-Espero que goste e lhe ajude!
+ Espero que goste e lhe ajude!
 
 ---
 
-## O que é o ProtheusDoc?
+##  O que é o ProtheusDoc?
 
-Para quem não conhece, ou sabe do que este artigo se trata, segue uma definição retirada do próprio TDN (Totvs Developer Network):
+ Para quem não conhece, ou sabe do que este artigo se trata, segue uma definição retirada do próprio TDN (Totvs Developer Network):
 
 <cite> "O ProtheusDOC, é uma forma estruturada de escrever comentários, sobre funções, classes, métodos ou qualquer outro elemento de um programa-fonte AdvPL, que descreve a utilização deste elemento." (https://tdn.totvs.com/display/tec/ProtheusDOC)</cite>
 
