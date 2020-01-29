@@ -1,6 +1,6 @@
 ---
 title: "Apresentação ProtheusDoc for VsCode"
-published: false
+published: true
 tags: "protheusdoc, doc, documentacao, advpl, totvs, protheus, vscode"
 author: "Gabriel Alencar"
 header-img: "img/ProtheusDoc-for-VsCode.gif"
