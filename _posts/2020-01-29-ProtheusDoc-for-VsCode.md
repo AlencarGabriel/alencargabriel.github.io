@@ -6,13 +6,13 @@ author: "Gabriel Alencar"
 header-img: "img/ProtheusDoc-for-VsCode2.png"
 ---
 
-**Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuição para comunidade TOTVS/Protheus. 
+**Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuição para comunidade TOTVS/Protheus. &nbsp;
 
-Espero que goste e lhe ajude! 
+Espero que goste e lhe ajude! &nbsp;
 
 ---
 
-## O que é o ProtheusDoc? 
+## O que é o ProtheusDoc? &nbsp;
 
 Para quem não conhece, ou sabe do que este artigo se trata, segue uma definição retirada do próprio TDN (Totvs Developer Network):
 
