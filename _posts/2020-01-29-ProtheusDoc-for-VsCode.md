@@ -30,7 +30,7 @@ Na minha opinião, além do aspecto visual do código mais *clean*, existe tambe
 ![Exemplo de documentação ProtheusDoc](https://user-images.githubusercontent.com/10109480/73375044-f79e5600-4299-11ea-91c7-bfe3a8769b5f.png)
 <center>Exemplo de documentação ProtheusDoc</center>
 
-Dá para perceber de cara a diferença entre os formatos.
+**Dá para perceber de cara a diferença entre os formatos!**
 
 ## Extensão ProtheusDoc for VsCode (AdvPL):
 
