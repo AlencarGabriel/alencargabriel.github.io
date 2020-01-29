@@ -20,25 +20,31 @@ Para quem não conhece, ou sabe do que este artigo se trata, segue uma definiç�
 
 Talvez você utilize até hoje (ou não usa nada) o layout de documentação no formato *Ms Linedraw*. Realmente este por muito tempo foi a forma "padrão" de documentar funções, métodos, etc. *Obs.: lembrando que estou falando de linguagens da TOTVS neste artigo.*
 
-![Exemplo de documentação Ms Linedraw](https://user-images.githubusercontent.com/10109480/73373947-2c111280-4298-11ea-89c8-138e01cd7ce8.png)
+![Exemplo de documentação Ms Linedraw](https://user-images.githubusercontent.com/10109480/73373947-2c111280-4298-11ea-89c8-138e01cd7ce8.png){:width="100%"}
 <center>Exemplo de documentação Ms Linedraw</center>
+
+<br>
 
 ### Quais as vantagens do ProtheusDoc?
 
 Na minha opinião, além do aspecto visual do código mais *clean*, existe tambem a questão da padronização e estruturação de algo que é próprio da linguagem, parecido com a implementação de outras (por exemplo o JavaDoc).
 
-![Exemplo de documentação ProtheusDoc](https://user-images.githubusercontent.com/10109480/73375044-f79e5600-4299-11ea-91c7-bfe3a8769b5f.png)
+![Exemplo de documentação ProtheusDoc](https://user-images.githubusercontent.com/10109480/73375044-f79e5600-4299-11ea-91c7-bfe3a8769b5f.png){:width="100%"}
 <center>Exemplo de documentação ProtheusDoc</center>
+
+<br>
 
 **Dá para perceber de cara a diferença entre os formatos!**
 
+<br>
+
 ## Extensão ProtheusDoc for VsCode (AdvPL):
 
-![ProtheusDoc for VsCode](https://user-images.githubusercontent.com/10109480/73375527-ac387780-429a-11ea-87b4-23681be51cbf.png)
+![ProtheusDoc for VsCode](https://user-images.githubusercontent.com/10109480/73375527-ac387780-429a-11ea-87b4-23681be51cbf.png){:width="100%"}
 
 Com o intuito de fornecer ao VsCode a maior quantidade de funcionalidades possíveis do ProtheusDoc já implementado no TDS Eclipse de forma nativa, criei esta extensão para dar suporte aos recursos padrões do ProtheusDoc conforme documentação da TOTVS, além de dinamizar a criação da documentação reconhecendo a sintaxe da **função**, **método** ou **classe** a ser documentada.
 
-![Example ProtheusDoc for VsCode](https://github.com/AlencarGabriel/ProtheusDoc-VsCode/raw/master/images/Example2.gif)
+![Example ProtheusDoc for VsCode](https://github.com/AlencarGabriel/ProtheusDoc-VsCode/raw/master/images/Example2.gif){:width="100%"}
 <center>Exemplo de uso da extensão ProtheusDoc</center>
 
 <br>
