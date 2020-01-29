@@ -3,7 +3,7 @@ title: "Apresentação ProtheusDoc for VsCode"
 published: true
 tags: "protheusdoc, doc, documentacao, advpl, totvs, protheus, vscode"
 author: "Gabriel Alencar"
-header-img: "img/ProtheusDoc-for-VsCode.png"
+header-img: "img/ProtheusDoc-for-VsCode2.png"
 ---
 
 **Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuíção para comunidade TOTVS/Protheus. 
@@ -17,7 +17,7 @@ Espero que goste e lhe ajude!
 Para quem não conhece, ou sabe do que este artigo se trata, segue uma definição retirada do próprio TDN (Totvs Developer Network):
 
 > *"O ProtheusDOC, é uma forma estruturada de escrever comentários, sobre funções, classes, métodos ou qualquer outro elemento de um programa-fonte AdvPL, que descreve a utilização deste elemento."*
-> (https://tdn.totvs.com/display/tec/ProtheusDOC)
+> [https://tdn.totvs.com/display/tec/ProtheusDOC](https://tdn.totvs.com/display/tec/ProtheusDOC)
 
 Talvez você utilize até hoje (ou não usa nada) o layout de documentação no formato *Ms Linedraw*. Realmente este por muito tempo foi a forma "padrão" de documentar funções, métodos, etc. *Obs.: lembrando que estou falando de linguagens da TOTVS neste artigo.*
 
@@ -52,8 +52,8 @@ Bem, existem bastantes funcionalidades a serem implementadas, e caso tenha desej
 
 Recomendo que ao instalar a extensão, dê uma olhada na [documentação](https://github.com/AlencarGabriel/ProtheusDoc-VsCode) da mesma, para conhecer todas as funcionalidades já implementadas e as futuras, e como configurar/utilizar esses recursos.
 
-Para baixar a extensão acesse: https://marketplace.visualstudio.com/items?itemName=AlencarGabriel.protheusdoc-vscode
+Para baixar a extensão acesse: [https://marketplace.visualstudio.com/items?itemName=AlencarGabriel.protheusdoc-vscode](https://marketplace.visualstudio.com/items?itemName=AlencarGabriel.protheusdoc-vscode)
 
-Veja mais em https://github.com/AlencarGabriel/ProtheusDoc-VsCode
+Veja mais em [https://github.com/AlencarGabriel/ProtheusDoc-VsCode](https://github.com/AlencarGabriel/ProtheusDoc-VsCode)
 
 Espero ter ajudado, em breve mais artigos apresentando outros projetos. Até a próxima! :computer: :wave:
