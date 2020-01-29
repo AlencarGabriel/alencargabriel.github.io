@@ -6,7 +6,7 @@ author: "Gabriel Alencar"
 header-img: "img/ProtheusDoc-for-VsCode2.png"
 ---
 
-**Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuíção para comunidade TOTVS/Protheus. 
+**Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuição para comunidade TOTVS/Protheus. 
 
 Espero que goste e lhe ajude! 
 
@@ -36,6 +36,8 @@ Na minha opinião, além do aspecto visual do código mais *clean*, existe tambe
 <br>
 
 **Dá para perceber de cara a diferença entre os formatos!**
+
+<br>
 
 ## Extensão ProtheusDoc for VsCode (AdvPL):
 
