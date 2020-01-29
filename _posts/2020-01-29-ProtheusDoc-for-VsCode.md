@@ -16,7 +16,8 @@ Espero que goste e lhe ajude!
 
 Para quem não conhece, ou sabe do que este artigo se trata, segue uma definição retirada do próprio TDN (Totvs Developer Network):
 
-<cite> "O ProtheusDOC, é uma forma estruturada de escrever comentários, sobre funções, classes, métodos ou qualquer outro elemento de um programa-fonte AdvPL, que descreve a utilização deste elemento." (https://tdn.totvs.com/display/tec/ProtheusDOC)</cite>
+> *"O ProtheusDOC, é uma forma estruturada de escrever comentários, sobre funções, classes, métodos ou qualquer outro elemento de um programa-fonte AdvPL, que descreve a utilização deste elemento."*
+> (https://tdn.totvs.com/display/tec/ProtheusDOC)
 
 Talvez você utilize até hoje (ou não usa nada) o layout de documentação no formato *Ms Linedraw*. Realmente este por muito tempo foi a forma "padrão" de documentar funções, métodos, etc. *Obs.: lembrando que estou falando de linguagens da TOTVS neste artigo.*
 
@@ -50,5 +51,9 @@ Com o intuito de fornecer ao VsCode a maior quantidade de funcionalidades possí
 Bem, existem bastantes funcionalidades a serem implementadas, e caso tenha desejo de contribuir me envie um [Pull Request](https://github.com/AlencarGabriel/ProtheusDoc-VsCode/pulls) ou abra uma [Issue](https://github.com/AlencarGabriel/ProtheusDoc-VsCode/issues) reportando o problema.
 
 Recomendo que ao instalar a extensão, dê uma olhada na [documentação](https://github.com/AlencarGabriel/ProtheusDoc-VsCode) da mesma, para conhecer todas as funcionalidades já implementadas e as futuras, e como configurar/utilizar esses recursos.
+
+Para baixar a extensão acesse: https://marketplace.visualstudio.com/items?itemName=AlencarGabriel.protheusdoc-vscode
+
+Veja mais em https://github.com/AlencarGabriel/ProtheusDoc-VsCode
 
 Espero ter ajudado, em breve mais artigos apresentando outros projetos. Até a próxima! :computer: :wave:
