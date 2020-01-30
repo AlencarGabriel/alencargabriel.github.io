@@ -3,7 +3,7 @@ title: "Apresentação ProtheusDoc for VsCode"
 published: true
 tags: "protheusdoc, doc, documentacao, advpl, totvs, protheus, vscode"
 author: "Gabriel Alencar"
-header-img: "img/ProtheusDoc-for-VsCode2.png"
+header-img: "img/ProtheusDoc-for-VsCode.png"
 ---
 
 **Olá Dev**, neste artigo vou apresentar a extensão **Protheus Doc for VsCode**. Meu mais recente projeto de contribuição para comunidade TOTVS/Protheus. &nbsp;
