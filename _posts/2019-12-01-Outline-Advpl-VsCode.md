@@ -31,6 +31,7 @@ Sendo assim, enquanto esse recurso não fica disponível para as extensões de s
 {
   "codemap.prw": "C:\\Users\\MyUSer\\AppData\\Roaming\\Code\\User\\mapper_prw.js",
   "codemap.prx": "C:\\Users\\MyUser\\AppData\\Roaming\\Code\\User\\mapper_prw.js",
+  "codemap.tlpp": "C:\\Users\\MyUser\\AppData\\Roaming\\Code\\User\\mapper_prw.js",
   "codemap.textMode": false
 }
 ```
