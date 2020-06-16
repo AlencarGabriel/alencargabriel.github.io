@@ -1,12 +1,12 @@
 ---
-title: "Usando Outline com AdvPl no VsCode"
+title: "Usando Outline (visão estruturada) com AdvPL no VsCode"
 published: true
-tags: "vscode, advpl, totvs"
+tags: "vscode, advpl, totvs, outline, code, mapper, visão, estruturada"
 author: "Gabriel Alencar"
 header-img: "img/Usando_Outline_AdvPl_VsCode.png"
 ---
 
-**Olá mundo**, neste artigo vou falar sobre um método que estou utilizando para implementar o recurso "Outline" ou a listagem de variáveis e métodos, funções, etc do VsCode enquanto o Language Server para AdvPL não fica pronto.
+**Olá mundo**, neste artigo vou falar sobre como implementar a visão estruturada do código (Outline ou code mapper) no VsCode para AdvPL enquanto o Language Server para AdvPL não fica pronto.
 
 Espero que goste!
 
