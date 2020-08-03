@@ -1,7 +1,4 @@
----
-layout: dicionario
-title: SA1 - Clientes
----
+{% include header.html %}
 
 # SA1 - Clientes
 ## SX3 - Campos da tabela
