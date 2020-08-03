@@ -292,9 +292,7 @@ C|A1_FILIAL+A1_SITUA|Situacão FRT|||S|
 D|A1_FILIAL+A1_CONTA|C. Contabil|||S|
 
 <script type="text/javascript">
-      var typ = document.createAttribute("class");
-      typ.value = "table table-striped";
-      $("table").attributes.setNamedItem(typ);
+      $("table").addClass("table table-striped");
 </script>
 
 
