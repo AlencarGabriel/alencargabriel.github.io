@@ -10,12 +10,7 @@ title: Dicionários
       integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
       crossorigin="anonymous"
     />
-    
-<script>
-      var typ = document.createAttribute("class");
-      typ.value = "table table-striped";
-      $("table").attributes.setNamedItem(typ);
-</script>
+   
 
 # SA1 - Clientes
 ## SX3 - Campos da tabela
@@ -299,5 +294,11 @@ A|A1_FILIAL+A1_VEND+A1_COD+A1_LOJA|Vendedor + Codigo + Loja|||S|
 B|A1_FILIAL+A1_CLIPRI+A1_LOJPRI+A1_COD+A1_LOJA|Cli. Primar. + Loja Cli.Pri + Codigo + Loja|||S|
 C|A1_FILIAL+A1_SITUA|Situacão FRT|||S|
 D|A1_FILIAL+A1_CONTA|C. Contabil|||S|
+
+<script type="text/javascript">
+      var typ = document.createAttribute("class");
+      typ.value = "table table-striped";
+      $("table").attributes.setNamedItem(typ);
+</script>
 
 
