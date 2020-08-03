@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: dicionario
 title: SA1 - Clientes
 ---
 
