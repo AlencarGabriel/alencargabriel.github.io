@@ -1,4 +1,7 @@
-{% include header.html %}
+---
+layout: dicionario
+title: SA1 - Clientes
+---
 
 # SA1 - Clientes
 ## SX3 - Campos da tabela
