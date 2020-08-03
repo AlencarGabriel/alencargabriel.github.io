@@ -1,7 +1,4 @@
----
-layout: default
-title: Dicionários
----
+{% include header.html %}
 
 <h1>Dicionario - Teste</h1>
 
