@@ -10,6 +10,12 @@ title: Dicionários
       integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
       crossorigin="anonymous"
     />
+    
+<script>
+      var typ = document.createAttribute("class");
+      typ.value = "table table-striped";
+      $("table").attributes.setNamedItem(typ);
+</script>
 
 # SA1 - Clientes
 ## SX3 - Campos da tabela
