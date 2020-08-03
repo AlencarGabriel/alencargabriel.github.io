@@ -8,3 +8,9 @@ title: Dicionários
 ## Teste
 
 ### Testando
+
+### Isto é uma tabela
+
+Coluna 1 | Coluna 2
+-|-|
+Dado 1 | Dado 2
